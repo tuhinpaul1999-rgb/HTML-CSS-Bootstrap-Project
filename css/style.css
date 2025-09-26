@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.c-nav-link {
+	color: aliceblue;
+}
+.c-nav-link:hover {
+	color: rgb(42, 139, 230);
+}
+.c-active {
+	color: rgb(42, 139, 230);
+}
